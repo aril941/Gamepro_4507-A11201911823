@@ -1,0 +1,11 @@
+NAMA	: MUHAMMAD KHARIRRUSHOFA
+NIM	: A11.2019.11823
+KELP	: A11.4507
+=============================================================
+Component
+1. Cube		: Transform,Cube(Mesh Filter),Mesh Renderer,Material,Lightning,Probes,Additional Settings,Box Collider,Default Material.
+2. Sphere	: Transform,Sphere(Mesh Filter),Mesh Renderer,Material,Lightning,Probes,Additional Settings,Sphere Collider,Default Material.
+3. Capsule	: Transform,Capsule(Mesh Filter),Mesh Renderer,Material,Lightning,Probes,Additional Settings,Capsule Collider,Default Material.
+4. Cylinder	: Transform,Cylinder(Mesh Filter),Mesh Renderer,Material,Lightning,Probes,Additional Settings,Capsule Collider,Default Material.
+5. Plane	: Transform,Plane(Mesh Filter),Mesh Renderer,Material,Lightning,Probes,Additional Settings,Mesh Collider,Default Material.
+6. Quad		: Transform,Plane(Mesh Filter),Mesh Renderer,Material,Lightning,Probes,Additional Settings,Mesh Collider,Default Material.
