@@ -1,1 +1,0 @@
-"SME","IT","WMB","Wealth Management Business","Consumer Asset","Finance","Risk Management","Treasury","AML","HR","Human Resources","Cor Comm & DAYA","Internal Audit","Operations","Retail Lending Business","MUR","Retail Banking Risk","Wholesale Banking","Corporate Banking","HC","Human Capital","Digital Banking"
